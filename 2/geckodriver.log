@@ -1,0 +1,79 @@
+1675764733605	geckodriver	INFO	Listening on 127.0.0.1:11674
+1675764829950	geckodriver	INFO	Listening on 127.0.0.1:11704
+1675764833006	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "11705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileuoKGSu"
+1675764833564	Marionette	INFO	Marionette enabled
+1675764833571	Marionette	INFO	Listening on port 11716
+WebDriver BiDi listening on ws://127.0.0.1:11705
+Read port: 11716
+1675764833858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileuoKGSu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:11705/devtools/browser/85fd5252-5479-4daa-a9b3-d26c186ebab0
+JavaScript warning: https://www.flightradar24.com/static/bundle/main.9741c814d72bdb078e81.bundle.js, line 532: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/enP75FOAOR6Dv0_xbsOpJb6_RhPRjbOZFZcWOHt7fp4.js line 2 > eval line 572 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://maps.google.com/maps-api-v3/api/js/51/8/marker.js, line 58: Script terminated by timeout at:
+_.n.Sp@https://maps.google.com/maps-api-v3/api/js/51/8/marker.js:58:16
+b@https://maps.google.com/maps-api-v3/api/js/51/8/map.js:56:126
+Aja/a.j<@https://maps.google.com/maps-api-v3/api/js/51/8/common.js:165:333
+
+JavaScript warning: https://www.flightradar24.com/static/bundle/main.9741c814d72bdb078e81.bundle.js, line 532: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/enP75FOAOR6Dv0_xbsOpJb6_RhPRjbOZFZcWOHt7fp4.js line 2 > eval line 2010 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.flightradar24.com/static/bundle/main.9741c814d72bdb078e81.bundle.js, line 532: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/enP75FOAOR6Dv0_xbsOpJb6_RhPRjbOZFZcWOHt7fp4.js line 2 > eval line 3982 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 16176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript warning: https://www.flightradar24.com/static/bundle/main.9741c814d72bdb078e81.bundle.js, line 532: unreachable code after return statement
+JavaScript warning: https://www.flightradar24.com/static/bundle/main.9741c814d72bdb078e81.bundle.js, line 532: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/enP75FOAOR6Dv0_xbsOpJb6_RhPRjbOZFZcWOHt7fp4.js line 2 > eval line 7296 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+console.error: "Unable to find target with innerWindowId:6442451037"
+console.error: "Unable to find target with innerWindowId:30064771073"
+console.error: "Unable to find target with innerWindowId:30064771073"
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451066/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451066/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442451066/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:91:30
+initialize@resource://devtools/client/fronts/inspector.js:80:12
+
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.flightradar24.com/static/bundle/main.9741c814d72bdb078e81.bundle.js, line 532: unreachable code after return statement
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/enP75FOAOR6Dv0_xbsOpJb6_RhPRjbOZFZcWOHt7fp4.js line 2 > eval line 5861 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://www.flightradar24.com/static/bundle/main.9741c814d72bdb078e81.bundle.js, line 532: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/enP75FOAOR6Dv0_xbsOpJb6_RhPRjbOZFZcWOHt7fp4.js line 2 > eval line 7005 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flightradar24.com."
+1675767268718	Marionette	INFO	Stopped listening on port 11716
+1675767385011	geckodriver	INFO	Listening on 127.0.0.1:11216
